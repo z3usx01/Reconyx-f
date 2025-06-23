@@ -1,4 +1,5 @@
 Reconyx
+
 An OSINT CLI tool with modular structure to perform:
 
 Technology detection (like Wappalyzer)
